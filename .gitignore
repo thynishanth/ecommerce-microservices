@@ -23,3 +23,6 @@
 hs_err_pid*
 replay_pid*
 /.idea
+
+# macOS Finder metadata
+.DS_Store
