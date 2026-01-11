@@ -1,0 +1,3 @@
+com/ecommerce/inventory/InventoryServiceIntegrationTest.class
+com/ecommerce/inventory/service/InventoryServiceImplTest.class
+com/ecommerce/inventory/controller/InventoryControllerTest.class

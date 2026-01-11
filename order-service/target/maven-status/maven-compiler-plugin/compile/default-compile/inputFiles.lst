@@ -1,0 +1,15 @@
+/Volumes/work/java-microservice-assignment-copilot-create-inventory-order-services/order-service/src/main/java/com/ecommerce/order/entity/OrderStatus.java
+/Volumes/work/java-microservice-assignment-copilot-create-inventory-order-services/order-service/src/main/java/com/ecommerce/order/OrderServiceApplication.java
+/Volumes/work/java-microservice-assignment-copilot-create-inventory-order-services/order-service/src/main/java/com/ecommerce/order/dto/InventoryResponse.java
+/Volumes/work/java-microservice-assignment-copilot-create-inventory-order-services/order-service/src/main/java/com/ecommerce/order/config/OpenApiConfig.java
+/Volumes/work/java-microservice-assignment-copilot-create-inventory-order-services/order-service/src/main/java/com/ecommerce/order/repository/OrderRepository.java
+/Volumes/work/java-microservice-assignment-copilot-create-inventory-order-services/order-service/src/main/java/com/ecommerce/order/client/InventoryClient.java
+/Volumes/work/java-microservice-assignment-copilot-create-inventory-order-services/order-service/src/main/java/com/ecommerce/order/dto/InventoryUpdateResponse.java
+/Volumes/work/java-microservice-assignment-copilot-create-inventory-order-services/order-service/src/main/java/com/ecommerce/order/entity/Order.java
+/Volumes/work/java-microservice-assignment-copilot-create-inventory-order-services/order-service/src/main/java/com/ecommerce/order/service/OrderService.java
+/Volumes/work/java-microservice-assignment-copilot-create-inventory-order-services/order-service/src/main/java/com/ecommerce/order/service/OrderServiceImpl.java
+/Volumes/work/java-microservice-assignment-copilot-create-inventory-order-services/order-service/src/main/java/com/ecommerce/order/dto/OrderRequest.java
+/Volumes/work/java-microservice-assignment-copilot-create-inventory-order-services/order-service/src/main/java/com/ecommerce/order/dto/OrderResponse.java
+/Volumes/work/java-microservice-assignment-copilot-create-inventory-order-services/order-service/src/main/java/com/ecommerce/order/controller/OrderController.java
+/Volumes/work/java-microservice-assignment-copilot-create-inventory-order-services/order-service/src/main/java/com/ecommerce/order/config/RestTemplateConfig.java
+/Volumes/work/java-microservice-assignment-copilot-create-inventory-order-services/order-service/src/main/java/com/ecommerce/order/dto/InventoryUpdateRequest.java

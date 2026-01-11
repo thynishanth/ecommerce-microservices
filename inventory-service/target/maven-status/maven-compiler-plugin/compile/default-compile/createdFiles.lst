@@ -1,0 +1,17 @@
+com/ecommerce/inventory/InventoryServiceApplication.class
+com/ecommerce/inventory/service/InventoryServiceImpl.class
+com/ecommerce/inventory/controller/InventoryController.class
+com/ecommerce/inventory/service/InventoryService.class
+com/ecommerce/inventory/dto/InventoryUpdateResponse$InventoryUpdateResponseBuilder.class
+com/ecommerce/inventory/entity/InventoryBatch.class
+com/ecommerce/inventory/factory/FifoInventoryHandler.class
+com/ecommerce/inventory/config/OpenApiConfig.class
+com/ecommerce/inventory/dto/InventoryResponse.class
+com/ecommerce/inventory/dto/InventoryResponse$InventoryResponseBuilder.class
+com/ecommerce/inventory/dto/InventoryUpdateRequest.class
+com/ecommerce/inventory/dto/BatchDto.class
+com/ecommerce/inventory/dto/BatchDto$BatchDtoBuilder.class
+com/ecommerce/inventory/dto/InventoryUpdateResponse.class
+com/ecommerce/inventory/repository/InventoryBatchRepository.class
+com/ecommerce/inventory/factory/InventoryHandlerFactory.class
+com/ecommerce/inventory/factory/InventoryHandler.class
