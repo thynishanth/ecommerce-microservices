@@ -1,0 +1,3 @@
+com/ecommerce/order/OrderServiceIntegrationTest.class
+com/ecommerce/order/controller/OrderControllerTest.class
+com/ecommerce/order/service/OrderServiceImplTest.class

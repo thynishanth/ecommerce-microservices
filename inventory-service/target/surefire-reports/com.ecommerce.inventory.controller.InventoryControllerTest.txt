@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.ecommerce.inventory.controller.InventoryControllerTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.102 s -- in com.ecommerce.inventory.controller.InventoryControllerTest

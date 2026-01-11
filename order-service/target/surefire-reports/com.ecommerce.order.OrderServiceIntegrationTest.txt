@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.ecommerce.order.OrderServiceIntegrationTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.148 s -- in com.ecommerce.order.OrderServiceIntegrationTest
